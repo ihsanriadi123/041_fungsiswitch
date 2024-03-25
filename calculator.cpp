@@ -65,4 +65,13 @@ switch (pilihan);
             break;
         case 5:
             break;
-            
+        default:
+            cout << "pilihan tidak ada " <<endl;
+            break;
+
+    }while (pilihan != 5);
+
+    return 0;
+}
+}
+
