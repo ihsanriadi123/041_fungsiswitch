@@ -51,4 +51,12 @@ switch (pilihan);
             input();
             cout << "hasil penjumlahan = " << penjumlahan(bilsatu, bildua) << endl;
             break;
-                    
+         case 2:
+            input();
+            cout << "hasil pembagian = " << pembagian(bilsatu, bildua) << endl;
+            break;
+        case 3:
+            input();
+            cout << "hasil perkalian = " << perkalian(bilsatu, bildua) << endl;
+            break;
+                       
